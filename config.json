@@ -1,0 +1,22 @@
+{
+  "keywords": [
+    "AI",
+    "Claude Code",
+    "Claude Code 使い方",
+    "Codex",
+    "OpenAI Codex",
+    "AI agent",
+    "AI エージェント",
+    "業務自動化",
+    "生成AI 自動化",
+    "n8n 自動化"
+  ],
+  "max_per_keyword": 8,
+  "daily_limit": 10,
+  "days_back": 7,
+  "sub_langs": ["ja", "en"],
+  "cookies_from_browser": "safari",
+  "transcript_char_limit": 25000,
+  "claude_model": "",
+  "_comment": "keywords=収集したいキーワード。max_per_keyword=1キーワードあたり最大何本。daily_limit=1回の収集で新規要約する最大本数。days_back=過去何日以内。cookies_from_browser=429回避用(safari/chrome/firefox、空で無効)。claude_model=空でデフォルト(定額枠)。本番はmax=5/days=7/daily_limit=10推奨"
+}
