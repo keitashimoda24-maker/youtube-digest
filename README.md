@@ -1,5 +1,7 @@
 # youtube-digest
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+
 A dependency-light tool that keeps you on top of a fast-moving topic on YouTube **without
 watching everything**. It searches new videos by keyword, pulls their transcripts, summarizes
 each with the Claude CLI, and serves the results in a tiny local web app.
